@@ -348,3 +348,4 @@ if energia <= 0:
     print("Perdiste: te quedaste sin energia...")
 else:
     print("Fin del Juego")
+    
